@@ -1,0 +1,6 @@
+Tipo Conta: PessoaFisica|Nome: Luis|Saldo: 0|Crédito: 45
+Tipo Conta: PessoaFisica|Nome: Lucas|Saldo: 0|Crédito: 35
+Tipo Conta: PessoaFisica|Nome: Lucas|Saldo: 0|Crédito: 35
+Tipo Conta: PessoaJuridica|Nome: Leandro|Saldo: 0|Crédito: 89
+Tipo Conta: PessoaFisica|Nome: Lucas|Saldo: 0|Crédito: 35
+Tipo Conta: PessoaJuridica|Nome: Leandro|Saldo: 0|Crédito: 89

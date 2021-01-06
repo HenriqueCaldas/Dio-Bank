@@ -1,0 +1,13 @@
+C:\Users\luish\Desktop\Projetos Estudo\BankDio\BankDio\bin\Debug\netcoreapp3.1\BankDio.exe
+C:\Users\luish\Desktop\Projetos Estudo\BankDio\BankDio\bin\Debug\netcoreapp3.1\BankDio.deps.json
+C:\Users\luish\Desktop\Projetos Estudo\BankDio\BankDio\bin\Debug\netcoreapp3.1\BankDio.runtimeconfig.json
+C:\Users\luish\Desktop\Projetos Estudo\BankDio\BankDio\bin\Debug\netcoreapp3.1\BankDio.runtimeconfig.dev.json
+C:\Users\luish\Desktop\Projetos Estudo\BankDio\BankDio\bin\Debug\netcoreapp3.1\BankDio.dll
+C:\Users\luish\Desktop\Projetos Estudo\BankDio\BankDio\bin\Debug\netcoreapp3.1\BankDio.pdb
+C:\Users\luish\Desktop\Projetos Estudo\BankDio\BankDio\obj\Debug\netcoreapp3.1\BankDio.csprojAssemblyReference.cache
+C:\Users\luish\Desktop\Projetos Estudo\BankDio\BankDio\obj\Debug\netcoreapp3.1\BankDio.AssemblyInfoInputs.cache
+C:\Users\luish\Desktop\Projetos Estudo\BankDio\BankDio\obj\Debug\netcoreapp3.1\BankDio.AssemblyInfo.cs
+C:\Users\luish\Desktop\Projetos Estudo\BankDio\BankDio\obj\Debug\netcoreapp3.1\BankDio.csproj.CoreCompileInputs.cache
+C:\Users\luish\Desktop\Projetos Estudo\BankDio\BankDio\obj\Debug\netcoreapp3.1\BankDio.dll
+C:\Users\luish\Desktop\Projetos Estudo\BankDio\BankDio\obj\Debug\netcoreapp3.1\BankDio.pdb
+C:\Users\luish\Desktop\Projetos Estudo\BankDio\BankDio\obj\Debug\netcoreapp3.1\BankDio.genruntimeconfig.cache
